@@ -7,6 +7,20 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Sat, 10 Oct 2026 08:55:23 +0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Behoben</h3>
+<ul>
+<li>Ohne gültige Lizenz sind jetzt alle Arbeitsfenster gesperrt (vorher nur das Video-Fenster)</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.2/Synadata-Desktop-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="VNyOU8QXiyFISUA2i5MOasnACVI7sC8TfCbtbhk763IhkajgUhtrRNpdIXNhu2D/KqD2qN7i/lY4Jx/RD3lWBA==" length="9660741" />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Sat, 10 Oct 2026 08:52:35 +0000</pubDate>
       <sparkle:version>70</sparkle:version>
