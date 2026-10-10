@@ -7,6 +7,25 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sat, 10 Oct 2026 09:31:40 +0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Verbessert</h3>
+<ul>
+<li>Update-Fenster auf Deutsch</li>
+<li>Coaches arbeiten in Synadata nur lesend: Spiele öffnen, streamen und lokal taggen – zurück nach Synadata schreiben nur Admins</li>
+</ul>
+<h3>Sicherheit</h3>
+<ul>
+<li>Offline-Lizenz ist jetzt vom Server signiert und an das Gerät gebunden (lässt sich nicht mehr von Hand freischalten)</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.3/Synadata-Desktop-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="UvimEfZE8dIDZS5dTqn48U25Lw9koxzfZRx5ao3jXqwg8ulx1qT8ylt16WGNzarPWPVPJYbycvby8zqZE0/aDA==" length="9675852" />
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <pubDate>Sat, 10 Oct 2026 08:55:23 +0000</pubDate>
       <sparkle:version>72</sparkle:version>
