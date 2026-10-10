@@ -6,5 +6,30 @@
     <description>Updates für Synadata Desktop</description>
     <language>de</language>
     <!-- RELEASES -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sat, 10 Oct 2026 08:49:07 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Erste offizielle Version zum Herunterladen, von Apple geprüft (notarisiert)</li>
+<li>Automatische Updates: Die App meldet neue Versionen selbst und installiert sie auf Klick</li>
+<li>Synadata-Suche über die ganze Saison im Fenster „Durchsuchen“ (Video lokal oder gestreamt)</li>
+<li>Spieler-Reel: alle Shifts einer Person über mehrere Spiele auf Knopfdruck</li>
+<li>Tags eines Spiels ins offene Paket laden, Abgleich und Hochladen nach Synadata</li>
+<li>Studio mit Show, Zeichenwerkzeugen, Daten-Folien, Aufnahme und Film-Export</li>
+<li>Willkommensfenster und Tastenkürzel-Übersicht (⌘/)</li>
+</ul>
+<h3>Verbessert</h3>
+<ul>
+<li>Bibliothek als Ordner (wie bei Hudl), Pakete auf externen Platten werden wiedergefunden</li>
+<li>Oberfläche passt sich der Fenstergrösse an, nichts wird mehr abgeschnitten</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.0/Synadata-Desktop-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="UViWEiR9mA3wQ9GsNTLH42+TSs+JgYNmRZD6ivA6oJlQMAv71qtzQicEqqij1a3yS05p7RTuEClMaYZFhPHPCA==" length="9686792" />
+    </item>
   </channel>
 </rss>
