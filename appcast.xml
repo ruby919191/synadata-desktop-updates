@@ -7,6 +7,33 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 12 Oct 2026 10:02:27 +0000</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Abo-Hinweis: In den letzten 30 Tagen vor dem Abo-Ende erscheint „Dein Abo läuft am … ab“, nach Ablauf eine klare Meldung mit Kontakt</li>
+<li>Live-Tags laden (Synadata › Live-Tags laden …): Markierungen vom iPhone/iPad (Synadata Tagger) ins offene Paket übernehmen, ausgerichtet über Bully und die Drittel aus Synadata oder über Anker am Abspielkopf</li>
+<li>Am Abspielkopf ausrichten (⌥⌘A) bei Live-Tags: verschiebt nur die Tags dieser Erfassung; ⌥⇧⌘A nur das eine Drittel (für Videos mit herausgeschnittenen Pausen)</li>
+</ul>
+<h3>Verbessert</h3>
+<ul>
+<li>Beim Start „Lizenz wird geprüft …“ statt kurz „nicht freigeschaltet“</li>
+<li>Lizenz und Abo werden alle 6 Stunden neu geprüft, auch wenn die App lange offen bleibt</li>
+</ul>
+<h3>Sicherheit</h3>
+<ul>
+<li>Die Anmeldung an Synadata liegt jetzt im Schlüsselbund von macOS statt in einer Datei</li>
+<li>Hochladen: Bricht die Verbindung beim Start der Verarbeitung ab, entsteht beim erneuten Versuch kein zweites Spiel</li>
+<li>Abmelden ohne Netz wird beim nächsten Start nachgeholt</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.4/Synadata-Desktop-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="+zaWiKCDLHWCJbsi2ACNYuajStSl1RDmiCJxu8di4uBbC+mQ7SUgFEiQTuxF6AzneTlOn+YfXgjmSqF4AaDlAg==" length="9730009" />
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <pubDate>Sat, 10 Oct 2026 09:31:40 +0000</pubDate>
       <sparkle:version>76</sparkle:version>
