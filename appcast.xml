@@ -7,6 +7,21 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Sat, 07 Nov 2026 16:30:37 +0000</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Zone-Entries aus Synadata tragen das Label „Über Mitte“: wie viele Feldspieler des Entry-Teams beim Überqueren der Mittellinie schon drüben stehen (z. B. „3 über Mitte“). Nur bei Spielen mit Hallenkamera</li>
+<li>Spieler-Vorschlag aus Synadata als „Akteur (auto)“, z. B. der Spieler am Ball beim Zone-Entry. Der Vorschlag wird nie als geprüfter Spieler zurückgeschrieben</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.5/Synadata-Desktop-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="KGgyZpxpbQ6cp2Z5GecY+G/8AAtnJJHNaIZjopWrCpJoXbpyTr2uBlB/NWDvvEP2rmBq9V8vVa8r4q6+aNkABw==" length="9733014" />
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <pubDate>Mon, 12 Oct 2026 10:02:27 +0000</pubDate>
       <sparkle:version>88</sparkle:version>
