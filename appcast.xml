@@ -7,6 +7,38 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Sun, 15 Nov 2026 16:43:04 +0000</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Durchsuchen: Stats-Filter für Schussdistanz, „Über Mitte“ (≥ 4 = 4 hoch) und „Nur mit Notiz“, dazu die Spalte Distanz</li>
+<li>Durchsuchen: Spieler sind über Vor- und Nachnamen findbar, Umlaute und Akzente spielen keine Rolle („rene“ findet „René“)</li>
+<li>Gespeicherte Suchen: Filterkombinationen mit Namen ablegen und mit einem Klick wieder aufrufen (Lesezeichen in der Leiste)</li>
+<li>Zahlenzeile über der Trefferliste: Events, pro Spiel, Tore, Σ xG, Ø xG, Erfolgsquote, Big Chances. Sind mehrere Events markiert, zählt nur die Auswahl</li>
+<li>Tags ausschliessen (⌥-Klick oder Rechtsklick auf ein Tag) und „ohne …“ pro Tag-Gruppe, z. B. Schüsse ohne Big Chance oder Events ohne Linie</li>
+<li>Bearbeiten in der Suche: Tags, Notiz und Clip-Länge von Treffern aus anderen Paketen ändern, ohne das Paket zu öffnen. Start und Ende mit ±1 s. Vor dem ersten Schreiben wird das Paket gesichert</li>
+<li>Wiedergabeliste: „Alle abspielen“ läuft über mehrere Pakete, mit „7 von 23“ und weiter/zurück (⌥← und ⌥→). Vor- und Nachlauf einstellbar, gilt auch für den Film-Export</li>
+<li>Synadata-Suche: xG, Schussdistanz, Spielername, Erfolg, Big Chance und „Ball davor“ pro Treffer. Filter greifen über die ganze Saison, auch bei mehr als 1000 Treffern</li>
+<li>Synadata-Treffer bearbeiten (Schalter „Bearbeiten“, nur Admins): Tags, Notiz und Clip-Länge werden direkt in Synadata gespeichert. Die Clip-Länge gilt danach auf jedem Gerät</li>
+</ul>
+<h3>Geändert</h3>
+<ul>
+<li>Tag-Filter: innerhalb einer Gruppe gilt „oder“, zwischen Gruppen „und“ (L1 oder L2, und zugleich Auf Tor). „Alle angehakten“ gibt es weiterhin</li>
+<li>Doppelklick auf einen Treffer aus einem anderen Paket spielt den Clip direkt ab, statt das Paket zu öffnen. „Paket öffnen“ bleibt als Knopf</li>
+<li>Synadata-Abgleich: Ein länger oder kürzer gezogener Synadata-Clip wird als Zuschnitt übertragen statt als „Zeit verschoben“ gemeldet</li>
+</ul>
+<h3>Verbessert</h3>
+<ul>
+<li>Durchsuchen reagiert beim Tippen schneller; die Seitenleiste zeigt, wie viele Treffer ein Filter mit den aktiven Filtern bringt</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.7/Synadata-Desktop-1.0.7.dmg" type="application/octet-stream" sparkle:edSignature="Qf36yhBJTZsKQ5axg6R1AyPJhpyImXGqSNHx/ZCty9f4YX18cD3/sKjynWSpBWvlr6sDSIP+4qAC8nrw9oUsBQ==" length="10086156" />
+    </item>
+    <item>
       <title>Version 1.0.5</title>
       <pubDate>Sat, 07 Nov 2026 16:30:37 +0000</pubDate>
       <sparkle:version>92</sparkle:version>
