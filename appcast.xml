@@ -7,6 +7,24 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Fri, 27 Nov 2026 12:52:26 +0000</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Frage stellen versteht Teams: „Abschlüsse der Tigers im Festsetzen“, „Gegentore der Tigers“, „Schüsse gegen Skorpion“. Gesucht wird in jedem Spiel auf der richtigen Seite, egal wessen Spiel es ist. Der Team-Filter steht als Chip über der Liste und lässt sich dort entfernen</li>
+</ul>
+<h3>Verbessert</h3>
+<ul>
+<li>Frage stellen: Die Erklärung beschreibt nur noch, was wirklich gefiltert wird</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.9/Synadata-Desktop-1.0.9.dmg" type="application/octet-stream" sparkle:edSignature="T4jhVFvLH1hU/NaXgLUhFV7otu3XoKOC+Vlhtf45CrBuS1Jl+7zICBTTqmbM73o384Mvbp6VhBMO1NGn/hllBw==" length="10440272" />
+    </item>
+    <item>
       <title>Version 1.0.8</title>
       <pubDate>Fri, 27 Nov 2026 12:22:56 +0000</pubDate>
       <sparkle:version>116</sparkle:version>
