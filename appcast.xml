@@ -7,6 +7,26 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.8</title>
+      <pubDate>Fri, 27 Nov 2026 12:22:56 +0000</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Durchsuchen: „Frage stellen“. Eine Frage wie „Entries gegen Pressing von L2 im 3. Drittel“ setzt die passenden Filter. Was sich nicht als Filter ausdrücken lässt, steht als Hinweis darunter. Braucht die Anmeldung mit dem Synadata-Konto</li>
+<li>Durchsuchen (Bibliothek): Sequenz-Filter. Events kurz nach oder vor einem anderen Event, z. B. „was kam nach einem Gegentor“. Auch per Rechtsklick „Was kam nach …?“ bzw. „Was kam vor …?“</li>
+<li>Durchsuchen (Bibliothek): Filter nach Spielstand (in Führung, Gleichstand, Rückstand), berechnet aus den getaggten Toren</li>
+</ul>
+<h3>Geändert</h3>
+<ul>
+<li>„Sportscode-Paket“ heisst jetzt „SCVideo-Paket“</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.8/Synadata-Desktop-1.0.8.dmg" type="application/octet-stream" sparkle:edSignature="NIGBOuTuCeTLner9bX9u0N2oxuCpuioDanq6svLWFpydr6ifzQQC89a9RPSXC021XbuExu0LSjcQFLCNnDj0CQ==" length="10421820" />
+    </item>
+    <item>
       <title>Version 1.0.7</title>
       <pubDate>Sun, 15 Nov 2026 16:43:04 +0000</pubDate>
       <sparkle:version>108</sparkle:version>
