@@ -7,6 +7,31 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.12</title>
+      <pubDate>Fri, 27 Nov 2026 16:44:59 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Neu</h3>
+<ul>
+<li>Durchsuchen › Synadata: Dropdowns „Team“ und „Spiel“ statt der langen Spiele-Liste. Team zeigt alle Spiele dieses Teams, auch wenn es in einem Lauf anders geschrieben ist („Köniz“ / „Köniz Bern“)</li>
+<li>Frage stellen sucht jetzt über die ganze Saison: „Schüsse der Tigers im Festsetzen“, „Gegentore der Tigers“, „Pressing gegen Köniz“, „Big Chances der Tigers im 3. Drittel“. Unter der Frage steht, wie viele Treffer in wie vielen Spielen gefunden wurden</li>
+<li>Neue Tags in der Suche (nur lesen): Schusszone (Slot, Innen, Aussen, Point), Traffic, Schussdruck, Abwehr (organisiert / unorganisiert), Konter-Lage (z. B. 3:2), Formation</li>
+</ul>
+<h3>Verbessert</h3>
+<ul>
+<li>Eine Zeile „Aktive Filter“ zeigt immer, was gerade filtert, mit „Alle Filter zurücksetzen“. Eine neue Frage ersetzt die Filter der letzten</li>
+<li>Synadata-Suche lädt bis zu 5000 Treffer, sobald Kategorie, Tag, Team oder Spiel gewählt sind; vorher fehlten ab 1000 Treffern ganze Spiele</li>
+</ul>
+<h3>Behoben</h3>
+<ul>
+<li>Film-Export: Der Speichern-Dialog hängt jetzt am Fenster und kann nicht mehr hinter anderen Fenstern verschwinden (dann reagierte die ganze App nicht mehr)</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.12/Synadata-Desktop-1.0.12.dmg" type="application/octet-stream" sparkle:edSignature="ti8VzsQXxRdCBQOfJAslX1c6eRlt7P9RzYzFWBQzoDQvXESroJdaZGR8vUfZzNx24GpDMEhHivd9n1PMZUg8AQ==" length="10634103" />
+    </item>
+    <item>
       <title>Version 1.0.11</title>
       <pubDate>Fri, 27 Nov 2026 14:08:23 +0000</pubDate>
       <sparkle:version>125</sparkle:version>
