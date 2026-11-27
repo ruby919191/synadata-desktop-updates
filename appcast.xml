@@ -7,6 +7,24 @@
     <language>de</language>
     <!-- RELEASES -->
     <item>
+      <title>Version 1.0.10</title>
+      <pubDate>Fri, 27 Nov 2026 13:39:38 +0000</pubDate>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>Verbessert</h3>
+<ul>
+<li>Film-Export aus Durchsuchen: Unten läuft ein Fortschrittsbalken mit Prozent und Schritt („Clip 12 von 30 einlesen“, „Film schreiben“). Mit ✕ lässt sich der Export abbrechen</li>
+</ul>
+<h3>Behoben</h3>
+<ul>
+<li>Film-Export mit Clips aus verschiedenen Kameras (z. B. Hallenkamera 4:3 und Stream 16:9): Das Bild wurde gestaucht. Jetzt hat der Film das Format der meisten Clips, die anderen stehen unverzerrt mit schwarzem Rand darin</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/ruby919191/synadata-desktop-updates/releases/download/v1.0.10/Synadata-Desktop-1.0.10.dmg" type="application/octet-stream" sparkle:edSignature="g1X9A0iV3vc+59xwCAv/Nl3v/UWDPkTvk2LDpZYbHuGJkaDSq2LdQM8r9oEe4q4ty05GUBkPqiX0pDExV3yZBw==" length="10520769" />
+    </item>
+    <item>
       <title>Version 1.0.9</title>
       <pubDate>Fri, 27 Nov 2026 12:52:26 +0000</pubDate>
       <sparkle:version>119</sparkle:version>
